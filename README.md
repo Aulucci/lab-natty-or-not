@@ -26,6 +26,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 Este projeto explora a importância do futebol para o povo brasileiro, destacando como o esporte se tornou um elemento fundamental da cultura e identidade nacional. A apresentação foi adaptada para ser acessível a pessoas cegas, com a inclusão de um áudio descritivo.
 
 ## 🤖 Tecnologias Utilizadas
+Gamma para criação da apresentação:
+[APRESENTAÇÃO](https://gamma.app/docs/A-Paixao-do-Brasil-pelo-Futebol-3yk931n5hnbmm92)
 Microsoft Copilot para organização e reformulação do texto.
 Ferramentas de gravação de áudio para criar a versão acessível da apresentação.
 
