@@ -27,6 +27,7 @@ Este projeto explora a importância do futebol para o povo brasileiro, destacand
 1. Gamma para criação da [APRESENTAÇÃO](https://gamma.app/docs/A-Paixao-do-Brasil-pelo-Futebol-3yk931n5hnbmm92)
 2. Microsoft Copilot para organização e reformulação do texto.
 3. Elevenlabs de gravação de áudio para criar a versão acessível da apresentação.
+4. D-ID para criar o Avatar apenas para conseguir linkar com o [Áudio](https://studio.d-id.com/share?id=9d211c902b11660c962f1d9e82fbec88&utm_source=copy) gerado sem precisar hospedar em alguma nuvem
 
 ## 🧐 Processo de Criação
 O conteúdo foi inicialmente estruturado em tópicos detalhados sobre a história, impacto social, econômico e cultural do futebol no Brasil. Em seguida, o texto foi reformulado e organizado em um único parágrafo coeso para facilitar a gravação de um áudio descritivo, tornando a apresentação acessível a pessoas cegas.
